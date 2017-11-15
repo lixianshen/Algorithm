@@ -1,17 +1,15 @@
 //
-//  main.m
+//  main.c
 //  排序算法
 //
 //  Created by quemos on 2017/11/15.
 //  Copyright © 2017年 quemos. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
-    }
+    // insert code here...
+    printf("Hello, World!\n");
     return 0;
 }
